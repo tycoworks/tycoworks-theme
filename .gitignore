@@ -1,0 +1,34 @@
+# OMC working dir — never commit
+.omc/
+.claude/
+
+# Node
+node_modules/
+
+# Generated output (decks render to the working dir). Keep committed assets/template.
+*.pptx
+*.pdf
+*.zip
+/*.png
+!template/*.pptx
+
+
+# OS / editor
+.DS_Store
+*.log
+
+# Working deck files
+decks/
+
+# tycoslide mermaid render cache
+.tycoslide-cache/
+
+# Generated agent skill — produced by `npx tycoslide package` (runs on postinstall). Not committed.
+/SKILL.md
+/syntax.md
+/manifest.json
+/assets.json
+/assets.dat
+
+# LibreOffice lock files
+.~lock.*#
