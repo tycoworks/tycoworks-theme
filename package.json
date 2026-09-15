@@ -10,7 +10,7 @@
     "postinstall": "tycoslide package"
   },
   "devDependencies": {
-    "@tycoworks/tycoslide": "^0.14.0"
+    "@tycoworks/tycoslide": "^0.15.0"
   },
   "dependencies": {
     "@fontsource/inter": "^5.3.0"
