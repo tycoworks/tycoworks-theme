@@ -54,7 +54,7 @@ title: Markdown support
 ::image::
 
 ```mermaid
-flowchart LR
+flowchart TD
   MD((Markdown)) --> Text
   MD --> Tables
   MD --> Code
@@ -82,7 +82,7 @@ title: Markdown support
 ::image::
 
 ```mermaid
-flowchart LR
+flowchart TD
   MD((Markdown)) --> Text
   MD --> Tables
   MD --> Code
