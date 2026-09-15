@@ -26,7 +26,7 @@ Eighteen layouts. Title, Section and Closing are dark; the rest are light.
 
 Type is Inter, with Fira Code for code, both embedded in the template.
 
-Colour lives in the template's theme rather than `theme.json`, so change a
+Color lives in the template's theme rather than `theme.json`, so change a
 scheme slot rather than painting shapes:
 
 | Slot | Value | Role |
@@ -40,7 +40,7 @@ scheme slot rather than painting shapes:
 
 `assets/icons/` holds 2,122 icons: the complete filled style of
 [Material Icons](https://fonts.google.com/icons), from
-`@material-design-icons/svg@0.14.15`, rasterised to 96px and tinted
+`@material-design-icons/svg@0.14.15`, rasterized to 96px and tinted
 `#7C3AED`. Retint them by overwriting RGB and preserving alpha; they are
 monochrome masks.
 
