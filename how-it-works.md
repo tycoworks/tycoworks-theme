@@ -5,7 +5,7 @@ theme: ./theme.json
 ---
 layout: Title
 title: How tycoslide works
-name: Create editable, on-brand PowerPoint slides from markdown, using your existing .pptx templates.
+name: Create editable PowerPoint slides from markdown, using your existing .pptx templates.
 jobTitle: ""
 notes: |
   Five slides about tycoslide, built with tycoslide. Slide 3 is the markdown for slide 4.
