@@ -1,13 +1,13 @@
 {
   "name": "tycoworks-theme",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "tycoworks slide theme for tycoslide.",
   "author": {
     "name": "tycoworks"
   },
   "private": true,
   "devDependencies": {
-    "@tycoworks/tycoslide": "^0.16.0"
+    "@tycoworks/tycoslide": "^0.16.1"
   },
   "dependencies": {
     "@fontsource/inter": "^5.3.0"

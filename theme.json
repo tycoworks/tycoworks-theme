@@ -144,7 +144,7 @@
     {
       "name": "Two column icons",
       "slideNumber": 6,
-      "description": "Title plus two text columns, each topped with an icon, then intro + bullets + closing line.",
+      "description": "Title plus two text columns, each with a small icon beside its heading, then intro + bullets + closing line.",
       "parameters": [
         {
           "shapeName": "Google Shape;620;p72",
@@ -524,7 +524,7 @@
     {
       "name": "Table",
       "slideNumber": 15,
-      "description": "Title plus a styled data table with a side column and top header row. First column and first row are visually highlighted.",
+      "description": "Title plus a styled data table with a side column and top header row. First column and first row are visually highlighted, and the last column is set slightly larger for a short figure such as a price.",
       "parameters": [
         {
           "shapeName": "Google Shape;997;p107",
@@ -557,7 +557,7 @@
     {
       "name": "Timeline",
       "slideNumber": 16,
-      "description": "Horizontal timeline with four dated milestones, each a date marker plus a short label and one-line description.",
+      "description": "Horizontal timeline with four dated milestones, each a date marker of up to about four characters (such as Q1 or 2026) plus a short label and one-line description. The last milestone is highlighted.",
       "parameters": [
         {
           "shapeName": "Google Shape;1034;p110",
