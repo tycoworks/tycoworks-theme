@@ -72,7 +72,7 @@ title: Quis Nostrud Exercitation Ullamco
 
 ::col1_icon::
 
-![](assets/icons/hub.png "fit: scale-down")
+![](assets/icons/hub.png)
 
 ::col1_body::
 
@@ -83,7 +83,7 @@ et dolore magna aliqua.
 
 ::col2_icon::
 
-![](assets/icons/insights.png "fit: scale-down")
+![](assets/icons/insights.png)
 
 ::col2_body::
 
@@ -127,7 +127,7 @@ title: Irure Dolor In Reprehenderit
 
 ::image::
 
-![](assets/backgrounds/low-poly.png "fit: cover")
+![](assets/backgrounds/low-poly.png)
 
 ---
 layout: Image right
@@ -169,7 +169,7 @@ dolore eu fugiat nulla pariatur.
 
 ::image::
 
-![](assets/backgrounds/low-poly.png "fit: cover")
+![](assets/backgrounds/low-poly.png)
 
 ---
 layout: Section
@@ -258,7 +258,7 @@ attributionTitle: Consectetur Adipiscing, Example Co
 
 ::logo::
 
-![tycoworks](assets/brand/tycoworks-lockup.png "fit: contain")
+![tycoworks](assets/brand/tycoworks-lockup.png)
 
 ---
 layout: Testimonial

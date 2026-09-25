@@ -190,7 +190,8 @@
             {
               "type": "image",
               "sourceSlide": 6,
-              "shapeName": "Google Shape;624;p72"
+              "shapeName": "Google Shape;624;p72",
+              "fit": "scale-down"
             }
           ],
           "frame": {
@@ -207,7 +208,8 @@
             {
               "type": "image",
               "sourceSlide": 6,
-              "shapeName": "Google Shape;625;p72"
+              "shapeName": "Google Shape;625;p72",
+              "fit": "scale-down"
             }
           ],
           "frame": {
@@ -298,7 +300,8 @@
             {
               "type": "image",
               "sourceSlide": 8,
-              "shapeName": "Google Shape;777;p86"
+              "shapeName": "Google Shape;777;p86",
+              "fit": "cover"
             }
           ],
           "frame": {
@@ -343,7 +346,8 @@
             {
               "type": "image",
               "sourceSlide": 9,
-              "shapeName": "Google Shape;853;p92"
+              "shapeName": "Google Shape;853;p92",
+              "fit": "contain"
             }
           ],
           "frame": {
@@ -388,7 +392,8 @@
             {
               "type": "image",
               "sourceSlide": 10,
-              "shapeName": "Google Shape;869;p94"
+              "shapeName": "Google Shape;869;p94",
+              "fit": "contain"
             }
           ],
           "frame": {
@@ -421,7 +426,8 @@
             {
               "type": "image",
               "sourceSlide": 11,
-              "shapeName": "Google Shape;887;p96"
+              "shapeName": "Google Shape;887;p96",
+              "fit": "contain"
             }
           ],
           "frame": {
