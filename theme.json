@@ -286,7 +286,7 @@
     {
       "name": "Image full",
       "slideNumber": 8,
-      "description": "A single title over a full-slide background image (dark treatment).",
+      "description": "A single title over a full-width image that fades to white behind the title and stops above the footer.",
       "parameters": [
         {
           "shapeName": "Google Shape;779;p86",
@@ -530,7 +530,7 @@
     {
       "name": "Table",
       "slideNumber": 15,
-      "description": "Title plus a styled data table with a side column and top header row. First column and first row are visually highlighted, and the last column is set slightly larger for a short figure such as a price.",
+      "description": "Title plus a styled data table with a side column and top header row. First column and first row are visually highlighted, and the fifth column is set slightly larger for a short figure such as a price, so a table with fewer columns loses it.",
       "parameters": [
         {
           "shapeName": "Google Shape;997;p107",
