@@ -23,12 +23,8 @@ decks/
 # tycoslide mermaid render cache
 .tycoslide-cache/
 
-# Generated agent skill — produced by `npx tycoslide package` (runs on postinstall). Not committed.
-/SKILL.md
-/syntax.md
-/manifest.json
-/assets.json
-/assets.dat
+# What `npx tycoslide extract` learns about the template; it can always be regenerated.
+/template.json
 
 # LibreOffice lock files
 .~lock.*#

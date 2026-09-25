@@ -43,13 +43,10 @@ title: Markdown support
 
 ::body::
 
-- Paragraphs, bullets and numbered lists
-- Bold, italic and links
-- Tables, in the template's table style
-- Code, syntax-highlighted
-- Mermaid diagrams, like the one on the left
-- Images from the theme's catalog
-- Speaker notes
+- Paragraphs, bullets and numbered lists, with bold, italic and links
+- Tables, images and speaker notes
+- Code, with [Shiki](https://shiki.style) syntax highlighting
+- [Mermaid](https://mermaid.js.org) diagrams, like the one on the left
 
 ::image::
 
@@ -71,13 +68,10 @@ title: Markdown support
 
 ::body::
 
-- Paragraphs, bullets and numbered lists
-- Bold, italic and links
-- Tables, in the template's table style
-- Code, syntax-highlighted
-- Mermaid diagrams, like the one on the left
-- Images from the theme's catalog
-- Speaker notes
+- Paragraphs, bullets and numbered lists, with bold, italic and links
+- Tables, images and speaker notes
+- Code, with [Shiki](https://shiki.style) syntax highlighting
+- [Mermaid](https://mermaid.js.org) diagrams, like the one on the left
 
 ::image::
 
